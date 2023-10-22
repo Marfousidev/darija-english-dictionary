@@ -1,0 +1,230 @@
+[
+    {
+        "English": "What is your name?",
+        "Darija": "Chno smitek?",
+        "Example Response (English)": "My name is Kate/ anas",
+        "Example Response (Darija)": "Smiti Kate smiti anas"
+    },
+    {
+        "English": "Where are you from?",
+        "Darija": "Mnin anta/ anti? ",
+        "Example Response (English)": "Morocco",
+        "Example Response (Darija)": "Mghrib"
+    },
+    {
+        "English": "Where do you live?",
+        "Darija": "Fen katsskon/ katskni?",
+        "Example Response (English)": "I live in Kénitra",
+        "Example Response (Darija)": "Sakn f Kénitra/ Sakna f Kénitra"
+    },
+    {
+        "English": "How old are you?",
+        "Darija": "Mch7al f3amrak?",
+        "Example Response (English)": "I am _____",
+        "Example Response (Darija)": "Ana f3mri ____"
+    },
+    {
+        "English": "What do you do for work?",
+        "Darija": "Chno (kadir/kadiri) fkhdamtek?",
+        "Example Response (English)": "I am a teacher",
+        "Example Response (Darija)": "ana ostad / ana ostada"
+    },
+    {
+        "English": "What do you do for fun/hobbies?",
+        "Darija": "Chno (kadir/ kadiri) f wa9t lfaragh dyalk?",
+        "Example Response (English)": "I like to paint",
+        "Example Response (Darija)": "kay3jbni nrassm"
+    },
+    {
+        "English": "What's your favorite football team?",
+        "Darija": "Chno hya lfar9a dlkora lmofadala 3ndk?",
+        "Example Response (English)": "Atlas Lions",
+        "Example Response (Darija)": "osod l'atlas"
+    },
+    {
+        "English": "What are you learning in school?",
+        "Darija": "Chno kat3lam f lmadrassa?",
+        "Example Response (English)": "I'm learning English",
+        "Example Response (Darija)": "kant3alam l anglais"
+    },
+    {
+        "English": "How is your family?",
+        "Darija": "Achkhbar 3a2ila dyalk?",
+        "Example Response (English)": "My family is doing well",
+        "Example Response (Darija)": "l3a2ila dyali bikher"
+    },
+    {
+        "English": "Where is your family?",
+        "Darija": "Fenahya l3a2ila dyalk?",
+        "Example Response (English)": "They are in Rabat",
+        "Example Response (Darija)": "kaynin f rbat"
+    },
+    {
+        "English": "How did you end up in Morocco?",
+        "Darija": "Kifach ta wliti (katsskni/katsskon) flmaghreb ?",
+        "Example Response (English)": "I came to Morocco for school",
+        "Example Response (Darija)": "jit lmaghreb 3la wed lmadrassa"
+    },
+    {
+        "English": "Have you traveled anywhere interesting recently?",
+        "Darija": "Wach safarti lchi blassa zwina mo2akharan?",
+        "Example Response (English)": "I went to Nador for vacation",
+        "Example Response (Darija)": "mchit l nador f l3otla"
+    },
+    {
+        "English": "What's your favorite books, movies, or TV shows?",
+        "Darija": "Chno homa lktoba/ aflam / lbaramij lmofadala 3ndk ?",
+        "Example Response (English)": "I like action movies and Turkish dramas",
+        "Example Response (Darija)": "kay3joni aflam odrama turkiya"
+    },
+    {
+        "English": "What kind of music do you like?",
+        "Darija": "Chno naw3 dyalk lmosi9a likat3ajbak?",
+        "Example Response (English)": "I like hip hop music",
+        "Example Response (Darija)": "kat3jbi lmossi9a dyal l hiphop "
+    },
+    {
+        "English": "Do you have any pets?",
+        "Darija": "Wach 3ndk 7ayawanat alifa?",
+        "Example Response (English)": "I have a dog named Isla",
+        "Example Response (Darija)": "3ndi kalba smitha isla"
+    },
+    {
+        "English": "What's your favorite food?",
+        "Darija": "Chno hya a7ssen makla 3ndk?",
+        "Example Response (English)": "My favorite food is couscous",
+        "Example Response (Darija)": "a7ssen makla 3ndi dyal couscous "
+    },
+    {
+        "English": "Do you enjoy cooking or trying new restaurants?",
+        "Darija": "Wach kay3jbak taib ola tjarab mata3im jdad?",
+        "Example Response (English)": "I love going to restaurants",
+        "Example Response (Darija)": "kay3jabni nmchi lmata3im"
+    },
+    {
+        "English": "How do you like to spend your weekends?",
+        "Darija": "Chno kay3jbak dir f weekend? ",
+        "Example Response (English)": "I enjoy going to the beach",
+        "Example Response (Darija)": "kay3jabni nmchi la plage/ chati2/ lb7ar"
+    },
+    {
+        "English": "Are you involved in any community or volunteer activities?",
+        "Darija": "Wach mcharek f chi jam3ya ola 3amal tatawo3i?",
+        "Example Response (English)": "I help animals when I can",
+        "Example Response (Darija)": "kanssa3d/ kan3awn l7ayawanat fo9 ma9dart"
+    },
+    {
+        "English": "Do you have any upcoming plans or exciting events in your life?",
+        "Darija": "Wach 3andk chi machari3 ola a7dat mohima f7yatek?",
+        "Example Response (English)": "I am getting married next year!",
+        "Example Response (Darija)": "ghantzwaj l3am jay"
+    },
+    {
+        "English": "What's something unique or unusual about you?",
+        "Darija": "Chno hya l7aja likatmayzek?",
+        "Example Response (English)": "I am learning how to code",
+        "Example Response (Darija)": "kant3alam lprogramation/ coding"
+    },
+    {
+        "English": "What are your long-term goals or aspirations?",
+        "Darija": "Chno hwa lhadaf dyalk flmada lba3id?",
+        "Example Response (English)": "I want to start a business",
+        "Example Response (Darija)": "bghit nbda mchro3"
+    },
+    {
+        "English": "Have you had any interesting or memorable life experiences?",
+        "Darija": "Wach 3andk chi tajriba mohima f7yatek?",
+        "Example Response (English)": "I met a famous football player",
+        "Example Response (Darija)": "tla9it m3a wa7d la3ib mchhour"
+    },
+    {
+        "English": "Are you a morning person or a night owl?",
+        "Darija": "Wach kay3jbak tfi9 bakri? Ola kay3jbak tsshar flil?",
+        "Example Response (English)": "I like to sleep late",
+        "Example Response (Darija)": "kay3jabni n3ass m3atal"
+    },
+    {
+        "English": "What's your favorite color ",
+        "Darija": "Chno hwa lawn lmofadal 3ndk?",
+        "Example Response (English)": "My favorite color is blue",
+        "Example Response (Darija)": "a7ssan color 3ndi hwa lazra9"
+    },
+    {
+        "English": "Nice to meet you",
+        "Darija": "Mtsharfin /  Mtsharf bma3rifa dyalk",
+        "Example Response (English)": "Nice to meet you, too",
+        "Example Response (Darija)": "tana charaf lya"
+    },
+    {
+        "English": "Goodbye",
+        "Darija": "Bslama",
+        "Example Response (English)": "Goodbye",
+        "Example Response (Darija)": "Bslama"
+    },
+    {
+        "English": "How old are you?",
+        "Darija": "Sh7al f3mri?",
+        "Example Response (English)": "I am 28 years old",
+        "Example Response (Darija)": "f3amri 28"
+    },
+    {
+        "English": "What is your phone number?",
+        "Darija": "Chno hya nmartek?",
+        "Example Response (English)": "My number is _______",
+        "Example Response (Darija)": "ra9m telefon dyali hwa ..."
+    },
+    {
+        "English": "May God preserve your health",
+        "Darija": "Lay3tik s7a",
+        "Example Response (English)": "And you too",
+        "Example Response (Darija)": "onta kadalik"
+    },
+    {
+        "English": "I swear to God",
+        "Darija": "Wllah",
+        "Example Response (English)": "",
+        "Example Response (Darija)": ""
+    },
+    {
+        "English": "Good morning",
+        "Darija": "Sba7 lkheer",
+        "Example Response (English)": "",
+        "Example Response (Darija)": ""
+    },
+    {
+        "English": "Good morning",
+        "Darija": "Sba7 nour",
+        "Example Response (English)": "",
+        "Example Response (Darija)": ""
+    },
+    {
+        "English": "Good afternoon",
+        "Darija": "Masaa lkheer",
+        "Example Response (English)": "",
+        "Example Response (Darija)": ""
+    },
+    {
+        "English": "Good afternoon",
+        "Darija": "Masaa nour",
+        "Example Response (English)": "",
+        "Example Response (Darija)": ""
+    },
+    {
+        "English": "Good night",
+        "Darija": "Tsb7 3la khir",
+        "Example Response (English)": "",
+        "Example Response (Darija)": ""
+    },
+    {
+        "English": "Good night",
+        "Darija": "Layla saida",
+        "Example Response (English)": "",
+        "Example Response (Darija)": ""
+    },
+    {
+        "English": "Have a blessed day",
+        "Darija": "Nhark mbrouk",
+        "Example Response (English)": "You too",
+        "Example Response (Darija)": "onta kadalik"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Emotion": "Happy",
+        "I am _____": "fr7ana/ fr7an",
+        "Are you _____?": "wach nti fr7ana? / wach nta fr7an?"
+    },
+    {
+        "Emotion": "Hungry",
+        "I am _____": "fya joooo3",
+        "Are you _____?": "wach fik joo3?"
+    },
+    {
+        "Emotion": "Thirsty",
+        "I am _____": "fia la3tach",
+        "Are you _____?": "wach fik l3tach?"
+    },
+    {
+        "Emotion": "Tired",
+        "I am _____": "3yiiit",
+        "Are you _____?": "wach 3yiiti?"
+    },
+    {
+        "Emotion": "Mad",
+        "I am _____": "m9ala9a/ m9ala9",
+        "Are you _____?": "wach nti m9al9a?"
+    },
+    {
+        "Emotion": "Sad",
+        "I am _____": "hazina/ hazin",
+        "Are you _____?": "wach nti hazina?"
+    },
+    {
+        "Emotion": "Hot",
+        "I am _____": "sahadt",
+        "Are you _____?": "wach sahadti?"
+    },
+    {
+        "Emotion": "Cold",
+        "I am _____": "fya lbard",
+        "Are you _____?": "wach fik lbard?"
+    },
+    {
+        "Emotion": "Annoyed",
+        "I am _____": "mderangiya",
+        "Are you _____?": "wach derangiti?"
+    },
+    {
+        "Emotion": "Embarassed",
+        "I am _____": "thachaamt",
+        "Are you _____?": "wach thachamti?"
+    },
+    {
+        "Emotion": "Bored",
+        "I am _____": "malit",
+        "Are you _____?": "wach maliti?"
+    },
+    {
+        "Emotion": "Anxious",
+        "I am _____": "martabka/ martabek",
+        "Are you _____?": "wach nti mrtabka?"
+    },
+    {
+        "Emotion": "Afraid",
+        "I am _____": "khayfa /khayf",
+        "Are you _____?": "wach nti khayfa?"
+    },
+    {
+        "Emotion": "Stressed",
+        "I am _____": "mstressiya / msstressi",
+        "Are you _____?": "wach nti msstressiya"
+    },
+    {
+        "Emotion": "Excited",
+        "I am _____": "mt7amssa / mt7amass",
+        "Are you _____?": "wach nti mt7amssa?"
+    },
+    {
+        "Emotion": "Jealous",
+        "I am _____": "mghyara / mghyar",
+        "Are you _____?": "wach ghrti?"
+    },
+    {
+        "Emotion": "Lonely",
+        "I am _____": "wa7daniya / wa7dani",
+        "Are you _____?": "wach nti wa7daniya?"
+    },
+    {
+        "Emotion": "Nervous",
+        "I am _____": "matwatra / matwatar",
+        "Are you _____?": "wach nti mtwatra?"
+    },
+    {
+        "Emotion": "Calm",
+        "I am _____": "had2a / hada2",
+        "Are you _____?": "wach nti had2a?"
+    },
+    {
+        "Emotion": "Surprised",
+        "I am _____": "tfaja2t",
+        "Are you _____?": "wach tfaja2ti?"
+    },
+    {
+        "Emotion": "Envy",
+        "I am _____": "m7ssada",
+        "Are you _____?": "wach nti m7ssada?"
+    },
+    {
+        "Emotion": "beautiful",
+        "I am _____": "ana zwina",
+        "Are you _____?": "wach nti zwina?"
+    }
+]
