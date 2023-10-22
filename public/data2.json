@@ -1,0 +1,1836 @@
+[
+    {
+        "English": "Adoption",
+        "Darija": "Tabani "
+    },
+    {
+        "English": "Ancestors",
+        "Darija": "Jdod "
+    },
+    {
+        "English": "Aunt",
+        "Darija": "LKhala/ l3ama "
+    },
+    {
+        "English": "Children",
+        "Darija": "Lwlad "
+    },
+    {
+        "English": "Cousins",
+        "Darija": "Lwad l3am "
+    },
+    {
+        "English": "Extended family",
+        "Darija": "L3a2ila lkbira "
+    },
+    {
+        "English": "Family celebrations",
+        "Darija": "I7tifalat dl3a2ila "
+    },
+    {
+        "English": "Family gatherings",
+        "Darija": "Tajamo3 l3a2ili "
+    },
+    {
+        "English": "Family history",
+        "Darija": "Tarikh dl3a2ila "
+    },
+    {
+        "English": "Family support",
+        "Darija": "Da3m dl3a2ila "
+    },
+    {
+        "English": "Family traditions",
+        "Darija": "Ta9alid l3a2ila "
+    },
+    {
+        "English": "Family tree",
+        "Darija": "Chajara dl3a2ila"
+    },
+    {
+        "English": "Family values",
+        "Darija": "Mabadi2 l3a2ila "
+    },
+    {
+        "English": "Foster family",
+        "Darija": "L3a2ila lmotabaniya "
+    },
+    {
+        "English": "Godparents",
+        "Darija": "L3raba "
+    },
+    {
+        "English": "Grandchildren",
+        "Darija": "A7fad "
+    },
+    {
+        "English": "Grandparents",
+        "Darija": "Ajdad "
+    },
+    {
+        "English": "Household",
+        "Darija": "3a2ila "
+    },
+    {
+        "English": "In-laws",
+        "Darija": "Asehar "
+    },
+    {
+        "English": "Kin",
+        "Darija": "L3a2ila "
+    },
+    {
+        "English": "Lineage",
+        "Darija": "Nssab "
+    },
+    {
+        "English": "Maternal",
+        "Darija": " omoma "
+    },
+    {
+        "English": "Nephew",
+        "Darija": "Wald l akh "
+    },
+    {
+        "English": "Niece",
+        "Darija": "Bant l okht "
+    },
+    {
+        "English": "Orphan",
+        "Darija": "Lyatim /lyatima "
+    },
+    {
+        "English": "Parents",
+        "Darija": "Lwalidin "
+    },
+    {
+        "English": "Paternal",
+        "Darija": "obowa "
+    },
+    {
+        "English": "Relatives",
+        "Darija": "L3a2ila sghira "
+    },
+    {
+        "English": "Siblings",
+        "Darija": "Lkhot "
+    },
+    {
+        "English": "Spouse",
+        "Darija": "Jawja / zawj "
+    },
+    {
+        "English": "Stepfamily",
+        "Darija": "Khot man abe/ om "
+    },
+    {
+        "English": "Triplets",
+        "Darija": "Tlata twam "
+    },
+    {
+        "English": "Twins",
+        "Darija": "Twam "
+    },
+    {
+        "English": "Uncle",
+        "Darija": "L3am  lkhal"
+    },
+    {
+        "English": "Baking",
+        "Darija": "Lkhbiz "
+    },
+    {
+        "English": "Blender",
+        "Darija": "Morinix "
+    },
+    {
+        "English": "Bowl",
+        "Darija": "Zlafa "
+    },
+    {
+        "English": "Cabinet",
+        "Darija": "Dfa "
+    },
+    {
+        "English": "Coffee Maker",
+        "Darija": "L3ssara dl9ahwa "
+    },
+    {
+        "English": "Colander",
+        "Darija": "Sfaya "
+    },
+    {
+        "English": "Cookware",
+        "Darija": "Tajhizat dlkorina "
+    },
+    {
+        "English": "Counter",
+        "Darija": "Potaji "
+    },
+    {
+        "English": "Cutting Board",
+        "Darija": "Lgrada "
+    },
+    {
+        "English": "Dish Rack",
+        "Darija": "Chbka dlma3n "
+    },
+    {
+        "English": "Dishwasher",
+        "Darija": "Lghssala dlma3n "
+    },
+    {
+        "English": "Fork",
+        "Darija": "Lfarchita "
+    },
+    {
+        "English": "Glass",
+        "Darija": "Kass "
+    },
+    {
+        "English": "Kettle",
+        "Darija": "Lbri9 "
+    },
+    {
+        "English": "Knife",
+        "Darija": "Lmos "
+    },
+    {
+        "English": "Ladle",
+        "Darija": "Mgharfa "
+    },
+    {
+        "English": "Measuring Cup",
+        "Darija": "Lkass dl3bar "
+    },
+    {
+        "English": "Microwave",
+        "Darija": "Microwave "
+    },
+    {
+        "English": "Mixing",
+        "Darija": "Khlat "
+    },
+    {
+        "English": "Napkin",
+        "Darija": "Lmndil / chrwit "
+    },
+    {
+        "English": "Oven",
+        "Darija": "Lfran"
+    },
+    {
+        "English": "Oven Mitt",
+        "Darija": "Ligat dyal lforno "
+    },
+    {
+        "English": "Pan",
+        "Darija": "Lma9la "
+    },
+    {
+        "English": "Peeler",
+        "Darija": "Lmos dlkjadra "
+    },
+    {
+        "English": "Plate",
+        "Darija": "Tbssil "
+    },
+    {
+        "English": "Refrigerator",
+        "Darija": "Tlaja "
+    },
+    {
+        "English": "Sink",
+        "Darija": "Robini "
+    },
+    {
+        "English": "Spoon",
+        "Darija": "Lm3al9a "
+    },
+    {
+        "English": "Stove",
+        "Darija": "Lforno "
+    },
+    {
+        "English": "Strainer",
+        "Darija": "Sfaya "
+    },
+    {
+        "English": "Timer",
+        "Darija": "Lmo2a9it "
+    },
+    {
+        "English": "Tongs",
+        "Darija": "Mil9at "
+    },
+    {
+        "English": "Trash Can",
+        "Darija": "Taro lzbal "
+    },
+    {
+        "English": "Utensils",
+        "Darija": "Lma3n"
+    },
+    {
+        "English": "Benefits",
+        "Darija": "Fawa2id"
+    },
+    {
+        "English": "Budget",
+        "Darija": "Mizaniya "
+    },
+    {
+        "English": "Career",
+        "Darija": "Lmassira lmihaniya "
+    },
+    {
+        "English": "Client",
+        "Darija": "Clian "
+    },
+    {
+        "English": "Commute",
+        "Darija": "Lanavite "
+    },
+    {
+        "English": "Company",
+        "Darija": "Charika "
+    },
+    {
+        "English": "Conference",
+        "Darija": "Mo2tamar "
+    },
+    {
+        "English": "Contract",
+        "Darija": "Contra / l3a9d "
+    },
+    {
+        "English": "Coworker",
+        "Darija": "Sadi9/ sadi9a flkhadma "
+    },
+    {
+        "English": "Coworking",
+        "Darija": "Lkhadma lmochtaraka "
+    },
+    {
+        "English": "Customer",
+        "Darija": "Mosstahlik "
+    },
+    {
+        "English": "Deadline",
+        "Darija": "Akhir ajal "
+    },
+    {
+        "English": "Email",
+        "Darija": "Email "
+    },
+    {
+        "English": "Employee",
+        "Darija": "Khdam "
+    },
+    {
+        "English": "Employer",
+        "Darija": "Mol chi "
+    },
+    {
+        "English": "Feedback",
+        "Darija": "Ta3li9"
+    },
+    {
+        "English": "Goal",
+        "Darija": "L hadaf "
+    },
+    {
+        "English": "Hire",
+        "Darija": "Nkhdm "
+    },
+    {
+        "English": "Income",
+        "Darija": "Lmadkhol "
+    },
+    {
+        "English": "Innovation",
+        "Darija": "Ibtikar "
+    },
+    {
+        "English": "Interview",
+        "Darija": "Mo9abala "
+    },
+    {
+        "English": "Job",
+        "Darija": "Lkhdma "
+    },
+    {
+        "English": "Manager",
+        "Darija": "Manager "
+    },
+    {
+        "English": "Meeting",
+        "Darija": "Jtima3 "
+    },
+    {
+        "English": "Negotiation",
+        "Darija": "Lmona9acha "
+    },
+    {
+        "English": "Office",
+        "Darija": "Lmaktab "
+    },
+    {
+        "English": "Overtime",
+        "Darija": "Sala lwa9t"
+    },
+    {
+        "English": "Performance",
+        "Darija": "Ada2 "
+    },
+    {
+        "English": "Presentation",
+        "Darija": "L3ard "
+    },
+    {
+        "English": "Productivity",
+        "Darija": "Lmardodiya "
+    },
+    {
+        "English": "Project",
+        "Darija": "Machro3 "
+    },
+    {
+        "English": "Promotion",
+        "Darija": "Tar9iya "
+    },
+    {
+        "English": "Report",
+        "Darija": "Ta9rir "
+    },
+    {
+        "English": "Responsibility",
+        "Darija": "Mass2oliya "
+    },
+    {
+        "English": "Resume",
+        "Darija": "Cv"
+    },
+    {
+        "English": "Salary",
+        "Darija": "ojra / salaire "
+    },
+    {
+        "English": "Success",
+        "Darija": "Naja7 "
+    },
+    {
+        "English": "Supervisor",
+        "Darija": "Mochrif "
+    },
+    {
+        "English": "Task",
+        "Darija": "Mohima "
+    },
+    {
+        "English": "Team",
+        "Darija": "Fari9 "
+    },
+    {
+        "English": "Training",
+        "Darija": "Tadrib "
+    },
+    {
+        "English": "Work",
+        "Darija": "L3amal/"
+    },
+    {
+        "English": "Workload",
+        "Darija": "L ham dlkhadma "
+    },
+    {
+        "English": "Workplace",
+        "Darija": "Blassa dlkhadma"
+    },
+    {
+        "English": "Art",
+        "Darija": "fan"
+    },
+    {
+        "English": "Assignment",
+        "Darija": "taklif"
+    },
+    {
+        "English": "Backpack",
+        "Darija": "chkara"
+    },
+    {
+        "English": "Bell",
+        "Darija": "sonit"
+    },
+    {
+        "English": "Blackboard",
+        "Darija": "saboora"
+    },
+    {
+        "English": "Calculator",
+        "Darija": "calculatrice"
+    },
+    {
+        "English": "Chair",
+        "Darija": "korssi"
+    },
+    {
+        "English": "Chalk",
+        "Darija": "tabachir"
+    },
+    {
+        "English": "Classroom",
+        "Darija": "9issm"
+    },
+    {
+        "English": "Counselor",
+        "Darija": "mosstachar"
+    },
+    {
+        "English": "Desk",
+        "Darija": "maktab or buro"
+    },
+    {
+        "English": "English",
+        "Darija": "l anglais"
+    },
+    {
+        "English": "Eraser",
+        "Darija": "mimssa7a"
+    },
+    {
+        "English": "Exam",
+        "Darija": "imti7an"
+    },
+    {
+        "English": "Field trip",
+        "Darija": "ri7la madrassiya"
+    },
+    {
+        "English": "Geography",
+        "Darija": "joghrafiya"
+    },
+    {
+        "English": "Glue",
+        "Darija": "lkola"
+    },
+    {
+        "English": "Grade",
+        "Darija": "daraja"
+    },
+    {
+        "English": "Graduation",
+        "Darija": "takharoj"
+    },
+    {
+        "English": "Group work",
+        "Darija": "fari9 l3amal"
+    },
+    {
+        "English": "Highlighter",
+        "Darija": "florissant"
+    },
+    {
+        "English": "History",
+        "Darija": "tarikh"
+    },
+    {
+        "English": "Homework",
+        "Darija": "l3amal lmanzili"
+    },
+    {
+        "English": "Lecture",
+        "Darija": "l9ira2a"
+    },
+    {
+        "English": "Lesson",
+        "Darija": "darss"
+    },
+    {
+        "English": "Library",
+        "Darija": "l,aktaba"
+    },
+    {
+        "English": "Lunch",
+        "Darija": "lghda"
+    },
+    {
+        "English": "Marker",
+        "Darija": "3alama"
+    },
+    {
+        "English": "Math",
+        "Darija": "riyadiyate"
+    },
+    {
+        "English": "Notebook",
+        "Darija": "daftar"
+    },
+    {
+        "English": "Paper",
+        "Darija": "lwar9a"
+    },
+    {
+        "English": "Pen",
+        "Darija": "stylo"
+    },
+    {
+        "English": "Pencil",
+        "Darija": "l9alam rassas"
+    },
+    {
+        "English": "Principal",
+        "Darija": "ra2issi"
+    },
+    {
+        "English": "Project",
+        "Darija": "machroo3"
+    },
+    {
+        "English": "Reading",
+        "Darija": "9ira2a"
+    },
+    {
+        "English": "Recess",
+        "Darija": "stira7a"
+    },
+    {
+        "English": "Ruler",
+        "Darija": "mistara"
+    },
+    {
+        "English": "Schedule",
+        "Darija": "sti3mal zaman / Lemploi"
+    },
+    {
+        "English": "School bag",
+        "Darija": "chkara dlmadrassa"
+    },
+    {
+        "English": "School bus",
+        "Darija": "transport dlmadrassa/ na9l lmadrassi/ 7afila madrassiya"
+    },
+    {
+        "English": "School uniform",
+        "Darija": "tabliya / lbssas dlmadrassa"
+    },
+    {
+        "English": "Schoolwork",
+        "Darija": "lkhdma dlmadrassa / "
+    },
+    {
+        "English": "Science",
+        "Darija": "l3olom"
+    },
+    {
+        "English": "Scissors",
+        "Darija": "lm9ass"
+    },
+    {
+        "English": "Student",
+        "Darija": "tilmid / talib"
+    },
+    {
+        "English": "Study",
+        "Darija": "dirassa"
+    },
+    {
+        "English": "Syllabus",
+        "Darija": "lmanhaj"
+    },
+    {
+        "English": "Teacher",
+        "Darija": "osstad / lmo3alim"
+    },
+    {
+        "English": "Test",
+        "Darija": "mti7an"
+    },
+    {
+        "English": "Textbook",
+        "Darija": "lektab"
+    },
+    {
+        "English": "Vice principal",
+        "Darija": "na2ib dlmodir"
+    },
+    {
+        "English": "Whiteboard",
+        "Darija": "sbora lbida"
+    },
+    {
+        "English": "Writing"
+    },
+    {
+        "English": "Accommodation",
+        "Darija": "I9ama "
+    },
+    {
+        "English": "Adventure",
+        "Darija": "Moghamara "
+    },
+    {
+        "English": "Airport",
+        "Darija": "L matar "
+    },
+    {
+        "English": "Arrival",
+        "Darija": "Lwosol"
+    },
+    {
+        "English": "Backpack",
+        "Darija": "Chkara "
+    },
+    {
+        "English": "Baggage",
+        "Darija": "Baggage "
+    },
+    {
+        "English": "Beach",
+        "Darija": "Chati2 / plage "
+    },
+    {
+        "English": "Camping",
+        "Darija": "Tkhyam "
+    },
+    {
+        "English": "Car Rental",
+        "Darija": "Kra dyal syarat "
+    },
+    {
+        "English": "Cruise",
+        "Darija": "Ri7la ba7riya "
+    },
+    {
+        "English": "Culture",
+        "Darija": "Ta9afa "
+    },
+    {
+        "English": "Currency",
+        "Darija": "3omla "
+    },
+    {
+        "English": "Customs",
+        "Darija": "Jamarik "
+    },
+    {
+        "English": "Departure",
+        "Darija": "Ra7il "
+    },
+    {
+        "English": "Destination",
+        "Darija": "Wijha "
+    },
+    {
+        "English": "Exchange Rate",
+        "Darija": "Si3r sarf "
+    },
+    {
+        "English": "Explore",
+        "Darija": "Lktichaf "
+    },
+    {
+        "English": "Flight",
+        "Darija": "Ri7la jawiya "
+    },
+    {
+        "English": "Foreign",
+        "Darija": "Ajnabi  / ajnabiya "
+    },
+    {
+        "English": "Guidebook",
+        "Darija": "Ktab dyal irchadat "
+    },
+    {
+        "English": "Hotel",
+        "Darija": "Fondo9  / hotel "
+    },
+    {
+        "English": "Immigration",
+        "Darija": "Lhijra "
+    },
+    {
+        "English": "Itinerary",
+        "Darija": ""
+    },
+    {
+        "English": "Journey",
+        "Darija": "Ri7la "
+    },
+    {
+        "English": "Language",
+        "Darija": "Logha"
+    },
+    {
+        "English": "Local",
+        "Darija": "Ma7ali "
+    },
+    {
+        "English": "Map",
+        "Darija": "Kharita "
+    },
+    {
+        "English": "Passport",
+        "Darija": "Passport "
+    },
+    {
+        "English": "Postcard",
+        "Darija": "Bita9a baridiya"
+    },
+    {
+        "English": "Reservation",
+        "Darija": "L7ajz  / reservation "
+    },
+    {
+        "English": "Sightseeing",
+        "Darija": "Lma2atir dyal lmdina "
+    },
+    {
+        "English": "Souvenir",
+        "Darija": "Tidkar "
+    },
+    {
+        "English": "Suitcase",
+        "Darija": "Lbalisa / chanta "
+    },
+    {
+        "English": "Ticket",
+        "Darija": "Tadkira "
+    },
+    {
+        "English": "Tour",
+        "Darija": "Ri7la"
+    },
+    {
+        "English": "Tourist",
+        "Darija": "Sa2i7"
+    },
+    {
+        "English": "Tourist Attraction",
+        "Darija": "Maatir sya7iya "
+    },
+    {
+        "English": "Transportation",
+        "Darija": "Lmowassalat "
+    },
+    {
+        "English": "Travel",
+        "Darija": "Safar "
+    },
+    {
+        "English": "Travel Insurance",
+        "Darija": "Taamin safar "
+    },
+    {
+        "English": "Trip",
+        "Darija": "Trip / ri7la"
+    },
+    {
+        "English": "Vacation",
+        "Darija": "L3otla "
+    },
+    {
+        "English": "Visa",
+        "Darija": "Visa / taachira"
+    },
+    {
+        "English": "Black",
+        "Darija": "K7l"
+    },
+    {
+        "English": "Blue",
+        "Darija": "Zr9"
+    },
+    {
+        "English": "Brown",
+        "Darija": "9hwi"
+    },
+    {
+        "English": "Color",
+        "Darija": "Loon"
+    },
+    {
+        "English": "Colors",
+        "Darija": "alwan"
+    },
+    {
+        "English": "Dark",
+        "Darija": "Gham9"
+    },
+    {
+        "English": "Green",
+        "Darija": "Khdr"
+    },
+    {
+        "English": "Grey",
+        "Darija": "Rmadi"
+    },
+    {
+        "English": "Light",
+        "Darija": "Nas3"
+    },
+    {
+        "English": "Orange",
+        "Darija": "Lemoni"
+    },
+    {
+        "English": "Pink",
+        "Darija": "Wrdi"
+    },
+    {
+        "English": "Purple",
+        "Darija": "Midadi"
+    },
+    {
+        "English": "Purple",
+        "Darija": "Banafsaji"
+    },
+    {
+        "English": "Red",
+        "Darija": "7mr"
+    },
+    {
+        "English": "White",
+        "Darija": "Byad"
+    },
+    {
+        "English": "Yellow",
+        "Darija": "Sfr"
+    },
+    {
+        "English": "Aisle",
+        "Darija": " mamar /Rayon / tri9"
+    },
+    {
+        "English": "Another coffee please",
+        "Darija": "kahwa hlib mra okhra afak"
+    },
+    {
+        "English": "Bag",
+        "Darija": "Mika/ plasstica / sac "
+    },
+    {
+        "English": "Basket",
+        "Darija": "Sela "
+    },
+    {
+        "English": "Brand",
+        "Darija": "La marque/ marka "
+    },
+    {
+        "English": "Can I Use Credit Card?",
+        "Darija": "Mumkin nkhalas bla carte"
+    },
+    {
+        "English": "Cart",
+        "Darija": "Arabat tassawo9"
+    },
+    {
+        "English": "Cash",
+        "Darija": "Cash / espess "
+    },
+    {
+        "English": "Cashier",
+        "Darija": "Mol la caisse "
+    },
+    {
+        "English": "Change",
+        "Darija": "Sarf "
+    },
+    {
+        "English": "Cheap",
+        "Darija": "rkhiss"
+    },
+    {
+        "English": "Checkout",
+        "Darija": "Nkhlass"
+    },
+    {
+        "English": "Checkout Counter",
+        "Darija": "La caisse "
+    },
+    {
+        "English": "Checkout Lane",
+        "Darija": "Saf fla caisse "
+    },
+    {
+        "English": "Coupon",
+        "Darija": "9assima "
+    },
+    {
+        "English": "Discount",
+        "Darija": "Remise "
+    },
+    {
+        "English": "Do You Understand?",
+        "Darija": "Fhamti "
+    },
+    {
+        "English": "Exchange",
+        "Darija": "Tabadol "
+    },
+    {
+        "English": "Expensive",
+        "Darija": "ghali"
+    },
+    {
+        "English": "How can I help you?",
+        "Darija": "Fach n3awnk"
+    },
+    {
+        "English": "How Much Does This Cost?",
+        "Darija": "mch7al taman"
+    },
+    {
+        "English": "How Much?",
+        "Darija": "Mch Hal"
+    },
+    {
+        "English": "I would like to order a coffee",
+        "Darija": "bghit nakhod qahwa hlib"
+    },
+    {
+        "English": "I’m Coming",
+        "Darija": "Ana jay ya"
+    },
+    {
+        "English": "I'm not going to help you",
+        "Darija": "Man 3awnkch"
+    },
+    {
+        "English": "Label",
+        "Darija": "Molsa9 "
+    },
+    {
+        "English": "Mall",
+        "Darija": "Mojma3 tijari "
+    },
+    {
+        "English": "Market",
+        "Darija": "L7anot "
+    },
+    {
+        "English": "Merchandise",
+        "Darija": "Sal3a "
+    },
+    {
+        "English": "Payment",
+        "Darija": "Daf3 / lkhlas "
+    },
+    {
+        "English": "Price",
+        "Darija": "Taman "
+    },
+    {
+        "English": "Product",
+        "Darija": "Produit "
+    },
+    {
+        "English": "Purchase",
+        "Darija": "Mabi3a "
+    },
+    {
+        "English": "Receipt",
+        "Darija": "Recu "
+    },
+    {
+        "English": "Repeat Slowly Please",
+        "Darija": "Oud bschwiya afak"
+    },
+    {
+        "English": "Return",
+        "Darija": "Nrja3 "
+    },
+    {
+        "English": "Sale",
+        "Darija": "Promotion "
+    },
+    {
+        "English": "Salesperson",
+        "Darija": "Mandob mabi3at "
+    },
+    {
+        "English": "Shelf",
+        "Darija": "Rofof"
+    },
+    {
+        "English": "Shop",
+        "Darija": "7anot "
+    },
+    {
+        "English": "Shopping",
+        "Darija": "Ntsswa9 "
+    },
+    {
+        "English": "Shopping List",
+        "Darija": "9a2ima dlmochtarayat "
+    },
+    {
+        "English": "Special Offer",
+        "Darija": "3ard khass "
+    },
+    {
+        "English": "Stock",
+        "Darija": "Stock / lmakhzon "
+    },
+    {
+        "English": "Store",
+        "Darija": "7anot"
+    },
+    {
+        "English": "Supermarket",
+        "Darija": "Supermarket "
+    },
+    {
+        "English": "Toiletries",
+        "Darija": "Adawat lmir7ad "
+    },
+    {
+        "English": "Trolley",
+        "Darija": "Arabat tassawo9 "
+    },
+    {
+        "English": "Where Is The Restroom?",
+        "Darija": "Fenahya toilette"
+    },
+    {
+        "English": "Which?",
+        "Darija": "Fash"
+    },
+    {
+        "English": "1",
+        "Darija": "Wahd"
+    },
+    {
+        "English": "2",
+        "Darija": "Jouj"
+    },
+    {
+        "English": "3",
+        "Darija": "Tlata"
+    },
+    {
+        "English": "4",
+        "Darija": "Rbaa"
+    },
+    {
+        "English": "5",
+        "Darija": "Khamssa"
+    },
+    {
+        "English": "6",
+        "Darija": "Sta"
+    },
+    {
+        "English": "7",
+        "Darija": "Sbaa"
+    },
+    {
+        "English": "8",
+        "Darija": "Tmanya"
+    },
+    {
+        "English": "9",
+        "Darija": "Tsoud"
+    },
+    {
+        "English": "10",
+        "Darija": "Achra"
+    },
+    {
+        "English": "11",
+        "Darija": "Hdaach"
+    },
+    {
+        "English": "12",
+        "Darija": "Tnaach"
+    },
+    {
+        "English": "13",
+        "Darija": "Tltaach"
+    },
+    {
+        "English": "14",
+        "Darija": "Rbaataach"
+    },
+    {
+        "English": "15",
+        "Darija": "Khmsstaach"
+    },
+    {
+        "English": "16",
+        "Darija": "Staach"
+    },
+    {
+        "English": "17",
+        "Darija": "Sbaataach"
+    },
+    {
+        "English": "18",
+        "Darija": "Tmantaach"
+    },
+    {
+        "English": "19",
+        "Darija": "Tsaatach"
+    },
+    {
+        "English": "20",
+        "Darija": "Achrin"
+    },
+    {
+        "English": "100",
+        "Darija": "Myaa"
+    },
+    {
+        "English": "200",
+        "Darija": "Mitayn"
+    },
+    {
+        "English": "1000",
+        "Darija": "Alf"
+    },
+    {
+        "English": "2000",
+        "Darija": "Alfayn"
+    },
+    {
+        "English": "3000",
+        "Darija": "Tlat Alaf"
+    },
+    {
+        "English": "1000000",
+        "Darija": "Malyoun"
+    },
+    {
+        "English": "1000000000",
+        "Darija": "Malyar"
+    },
+
+ {
+        "English": "Love",
+        "Darija": "l7ob"
+    },
+    {
+        "English": "Family",
+        "Darija": "l3a2ila"
+    },
+    {
+        "English": "Friendship",
+        "Darija": "sada9a"
+    },
+    {
+        "English": "Romance",
+        "Darija": "romansya"
+    },
+    {
+        "English": "Marriage",
+        "Darija": "jwaj"
+    },
+    {
+        "English": "Partnership",
+        "Darija": "charaka"
+    },
+    {
+        "English": "Connection",
+        "Darija": "itissal"
+    },
+    {
+        "English": "Trust",
+        "Darija": "ti9a"
+    },
+    {
+        "English": "Commitment",
+        "Darija": "iltizam"
+    },
+    {
+        "English": "Communication",
+        "Darija": "tawasol"
+    },
+    {
+        "English": "Intimacy",
+        "Darija": "7amimiya / 7anan"
+    },
+    {
+        "English": "Affection",
+        "Darija": "ta3atof"
+    },
+    {
+        "English": "Support",
+        "Darija": "da3m"
+    },
+    {
+        "English": "Loyalty",
+        "Darija": "lwafa2"
+    },
+    {
+        "English": "Compatibility",
+        "Darija": "lmo7assaba"
+    },
+    {
+        "English": "Understanding",
+        "Darija": "tafahom"
+    },
+    {
+        "English": "Compromise",
+        "Darija": "mossawama"
+    },
+    {
+        "English": "Empathy",
+        "Darija": "ta3atof"
+    },
+    {
+        "English": "Respect",
+        "Darija": "i7tiram"
+    },
+    {
+        "English": "Conflict",
+        "Darija": "sira3 / lmdabza"
+    },
+    {
+        "English": "Relationship status",
+        "Darija": "l7ala jtima3iya"
+    },
+    {
+        "English": "Breakup",
+        "Darija": "lfra9"
+    },
+    {
+        "English": "Dating",
+        "Darija": "mowa3ada"
+    },
+    {
+        "English": "",
+        "Darija": ""
+    },
+    {
+        "English": "Engagement",
+        "Darija": "irtibat"
+    },
+    {
+        "English": "Wedding",
+        "Darija": "l3arss"
+    },
+    {
+        "English": "Anniversary",
+        "Darija": "aid"
+    },
+    {
+        "English": "Divorce",
+        "Darija": "tla9"
+    },
+    {
+        "English": "Sibling",
+        "Darija": "lkhot / lkhwatat"
+    },
+    {
+        "English": "Parenting",
+        "Darija": "obowa"
+    },
+    {
+        "English": "Kinship",
+        "Darija": "l9araba"
+    },
+    {
+        "English": "Spouse",
+        "Darija": "lzawj"
+    },
+    {
+        "English": "Partner",
+        "Darija": "chrik / chrika "
+    },
+    {
+        "English": "",
+        "Darija": ""
+    },
+    {
+        "English": "Soulmate",
+        "Darija": "ro7 dyali"
+    },
+    {
+        "English": "Ex-lover",
+        "Darija": "l7ob sab9"
+    },
+    {
+        "English": "cheating",
+        "Darija": "khiyana"
+    },
+    {
+        "English": "Jealousy",
+        "Darija": "lghira"
+    },
+    {
+        "English": "Infidelity",
+        "Darija": "khyana"
+    },
+    {
+        "English": "Reconciliation",
+        "Darija": "mssal7a"
+    },
+    {
+        "English": "above",
+        "Darija": "foo9"
+    },
+    {
+        "English": "Above",
+        "Darija": "fo9"
+    },
+    {
+        "English": "Across",
+        "Darija": "9ta3"
+    },
+    {
+        "English": "Against",
+        "Darija": "dad"
+    },
+    {
+        "English": "Along",
+        "Darija": "  3la tol/ 3la mtidad"
+    },
+    {
+        "English": "Amongst",
+        "Darija": "bin"
+    },
+    {
+        "English": "And",
+        "Darija": "wa"
+    },
+    {
+        "English": "Around",
+        "Darija": "dor 3la"
+    },
+    {
+        "English": "At",
+        "Darija": "f"
+    },
+    {
+        "English": "Because",
+        "Darija": "7itach"
+    },
+    {
+        "English": "Before",
+        "Darija": "9baal"
+    },
+    {
+        "English": "Behind",
+        "Darija": "khalf/ wara2 "
+    },
+    {
+        "English": "Below",
+        "Darija": "a9al / ta7t"
+    },
+    {
+        "English": "Beside",
+        "Darija": "janb"
+    },
+    {
+        "English": "Beyond",
+        "Darija": "wra "
+    },
+    {
+        "English": "But",
+        "Darija": "Welakin"
+    },
+    {
+        "English": "By",
+        "Darija": "7da"
+    },
+    {
+        "English": "From",
+        "Darija": "man"
+    },
+    {
+        "English": "He",
+        "Darija": "huwa"
+    },
+    {
+        "English": "I ",
+        "Darija": "ana"
+    },
+    {
+        "English": "In",
+        "Darija": "f"
+    },
+    {
+        "English": "Into",
+        "Darija": "dakhel"
+    },
+    {
+        "English": "Now",
+        "Darija": "db"
+    },
+    {
+        "English": "On",
+        "Darija": "f"
+    },
+    {
+        "English": "She",
+        "Darija": "hiya"
+    },
+    {
+        "English": "They",
+        "Darija": "huma"
+    },
+    {
+        "English": "Through",
+        "Darija": "3abra"
+    },
+    {
+        "English": "To",
+        "Darija": "l "
+    },
+    {
+        "English": "Towards",
+        "Darija": "ftijah"
+    },
+    {
+        "English": "Under",
+        "Darija": "ta7t"
+    },
+    {
+        "English": "Upon",
+        "Darija": "3la"
+    },
+    {
+        "English": "We",
+        "Darija": "hna"
+    },
+    {
+        "English": "What",
+        "Darija": "Chnou"
+    },
+    {
+        "English": "When",
+        "Darija": "Fo9ach"
+    },
+    {
+        "English": "Where",
+        "Darija": "fin"
+    },
+    {
+        "English": "Who",
+        "Darija": "Chkon"
+    },
+    {
+        "English": "Why",
+        "Darija": "3lach"
+    },
+    {
+        "English": "With ",
+        "Darija": "m3a"
+    },
+    {
+        "English": "Within",
+        "Darija": "dakhel"
+    },
+    {
+        "English": "Without",
+        "Darija": "bla"
+    },
+    {
+        "English": "You ",
+        "Darija": "ntuma"
+    },
+    {
+        "English": "You (F)",
+        "Darija": "nti"
+    },
+    {
+        "English": "You (M)",
+        "Darija": "nta"
+    },
+    {
+        "English": "Excuse me",
+        "Darija": "Smaheliya"
+    },
+    {
+        "English": "Food",
+        "Darija": "Malka"
+    },
+    {
+        "English": "Salt",
+        "Darija": "Malha"
+    },
+    {
+        "English": "Jam ",
+        "Darija": "Confitir"
+    },
+    {
+        "English": "Salad 🥗 ",
+        "Darija": "Shlada"
+    },
+    {
+        "English": "Bread 🥯 ",
+        "Darija": "khobz"
+    },
+    {
+        "English": "Vegetables  ",
+        "Darija": "lkhadra"
+    },
+    {
+        "English": "Fruit",
+        "Darija": "fawakih"
+    },
+    {
+        "English": "Potato 🥔 ",
+        "Darija": "batata"
+    },
+    {
+        "English": "Tomato 🍅 ",
+        "Darija": "matisha"
+    },
+    {
+        "English": "Carrot 🥕 ",
+        "Darija": "khizo"
+    },
+    {
+        "English": "Pepper 🫑  ",
+        "Darija": "falfla"
+    },
+    {
+        "English": "Eggplant 🍆 ",
+        "Darija": "danjal"
+    },
+    {
+        "English": "Zucchini ",
+        "Darija": "lgar3a"
+    },
+    {
+        "English": "Chicken 🐓 ",
+        "Darija": "djaj"
+    },
+    {
+        "English": "Beef 🥩 ",
+        "Darija": "l7am lbaghri"
+    },
+    {
+        "English": "Lamb 🐑 ",
+        "Darija": "l7am lghanmi"
+    },
+    {
+        "English": "Apple 🍎 ",
+        "Darija": "tfaa7"
+    },
+    {
+        "English": "Orange 🍊 ",
+        "Darija": "limon"
+    },
+    {
+        "English": "Peaches 🍑 ",
+        "Darija": "lkhoukh"
+    },
+    {
+        "English": "Grapes 🍇 ",
+        "Darija": "la3nab"
+    },
+    {
+        "English": "Banana 🍌 ",
+        "Darija": "banan"
+    },
+    {
+        "English": "Water Melon🍉 ",
+        "Darija": "dlaa7"
+    },
+    {
+        "English": "Melon 🍈 ",
+        "Darija": "btikh"
+    },
+    {
+        "English": "Lemon 🍋 ",
+        "Darija": "l7amd"
+    },
+    {
+        "English": "Food 🍱  ",
+        "Darija": "makla"
+    },
+    {
+        "English": "Fish 🐠 ",
+        "Darija": "7out"
+    },
+    {
+        "English": "Ask for help",
+        "Darija": "swali/ swal  3la lmossa3ada"
+    },
+    {
+        "English": "Avenue",
+        "Darija": "chari3 / zan9a"
+    },
+    {
+        "English": "Block",
+        "Darija": "l7ay / block"
+    },
+    {
+        "English": "Bridge",
+        "Darija": "l9antra"
+    },
+    {
+        "English": "Confused",
+        "Darija": "mchawach / "
+    },
+    {
+        "English": "Continue",
+        "Darija": "kmal"
+    },
+    {
+        "English": "Corner",
+        "Darija": "l9ont"
+    },
+    {
+        "English": "Destination",
+        "Darija": "wijha"
+    },
+    {
+        "English": "Downstairs ",
+        "Darija": "Lta7t "
+    },
+    {
+        "English": "East",
+        "Darija": "char9"
+    },
+    {
+        "English": "Entrance",
+        "Darija": "dokhol"
+    },
+    {
+        "English": "Exit",
+        "Darija": "khoroj"
+    },
+    {
+        "English": "Follow",
+        "Darija": "tba3"
+    },
+    {
+        "English": "Follow instructions",
+        "Darija": "tba3 / tab3i ta3limat"
+    },
+    {
+        "English": "GPS (Global Positioning System)",
+        "Darija": "gps"
+    },
+    {
+        "English": "Here",
+        "Darija": "hna"
+    },
+    {
+        "English": "Highway",
+        "Darija": "autoroute / tari9 sari3"
+    },
+    {
+        "English": "I'll be back",
+        "Darija": "Hana ghanrja3 "
+    },
+    {
+        "English": "Intersection",
+        "Darija": "tadakhol"
+    },
+    {
+        "English": "Kilometer",
+        "Darija": "kilometer"
+    },
+    {
+        "English": "Landmark",
+        "Darija": "blassa m3roufa"
+    },
+    {
+        "English": "Left",
+        "Darija": "Liysser"
+    },
+    {
+        "English": "Let's go",
+        "Darija": "Yallah nmchiw "
+    },
+    {
+        "English": "Listen",
+        "Darija": "tssanat / sma3 "
+    },
+    {
+        "English": "Lost",
+        "Darija": "khssar"
+    },
+    {
+        "English": "Map",
+        "Darija": "lkharita"
+    },
+    {
+        "English": "Mile",
+        "Darija": "mil"
+    },
+    {
+        "English": "North",
+        "Darija": "chamal"
+    },
+    {
+        "English": "Over there",
+        "Darija": "lhih"
+    },
+    {
+        "English": "Public transportation",
+        "Darija": "lmowassalat l3ama"
+    },
+    {
+        "English": "Repeat",
+        "Darija": "3awd"
+    },
+    {
+        "English": "Right ",
+        "Darija": "Liyman "
+    },
+    {
+        "English": "Road",
+        "Darija": "tri9 / chari3"
+    },
+    {
+        "English": "Roundabout",
+        "Darija": "Ronde point"
+    },
+    {
+        "English": "Route",
+        "Darija": "tri9"
+    },
+    {
+        "English": "Shortest route",
+        "Darija": "tri9a l9ssira"
+    },
+    {
+        "English": "sign",
+        "Darija": "3alama "
+    },
+    {
+        "English": "South",
+        "Darija": "janob"
+    },
+    {
+        "English": "Straight ",
+        "Darija": "Nichan "
+    },
+    {
+        "English": "Street",
+        "Darija": "chari3 / zn9a"
+    },
+    {
+        "English": "Thank you",
+        "Darija": "chokran"
+    },
+    {
+        "English": "Traffic light",
+        "Darija": "do"
+    },
+    {
+        "English": "Turn ",
+        "Darija": "Dor"
+    },
+    {
+        "English": "Turn-by-turn",
+        "Darija": "bnoba"
+    },
+    {
+        "English": "Upstairs ",
+        "Darija": "Lfo9 "
+    },
+    {
+        "English": "West",
+        "Darija": "lgharbb"
+    }
+    
+
+]
