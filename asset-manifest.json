@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/darija-english-dictionary/static/css/main.32882aa3.css",
+    "main.js": "/darija-english-dictionary/static/js/main.7f6b9560.js",
+    "static/media/MoroccanDarija.png": "/darija-english-dictionary/static/media/MoroccanDarija.24ac7680172d17aedd65.png",
+    "index.html": "/darija-english-dictionary/index.html",
+    "main.32882aa3.css.map": "/darija-english-dictionary/static/css/main.32882aa3.css.map",
+    "main.7f6b9560.js.map": "/darija-english-dictionary/static/js/main.7f6b9560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32882aa3.css",
+    "static/js/main.7f6b9560.js"
+  ]
+}
