@@ -13,7 +13,7 @@ const FetchData = () => {
 
   useEffect(() => {
     // Fetch data from data.json
-    fetch("/data.json")
+    fetch("https://raw.githubusercontent.com/Marfousidev/darija-english-dictionary/gh-pages/data.json")
       .then((response) => response.json())
       .then((data) => {
         setData(data);
@@ -22,7 +22,7 @@ const FetchData = () => {
         console.error("Fetch error for data.json:", error);
       });
     // Fetch data from data1.json
-    fetch("/data1.json")
+    fetch("https://raw.githubusercontent.com/Marfousidev/darija-english-dictionary/gh-pages/data1.json")
       .then((response) => response.json())
       .then((data) => {
         setData1(data);
@@ -31,7 +31,7 @@ const FetchData = () => {
         console.error("Fetch error for data1.json:", error);
       });
     // Fetch data from data2.json
-    fetch("/data2.json")
+    fetch("https://raw.githubusercontent.com/Marfousidev/darija-english-dictionary/gh-pages/data2.json")
       .then((response) => {
         if (!response.ok) {
           throw new Error('Network response was not ok');
@@ -45,7 +45,7 @@ const FetchData = () => {
         console.error("Fetch error for data2.json:", error);
       });
     // Fetch data from data3.json
-    fetch("/data3.json")
+    fetch("https://raw.githubusercontent.com/Marfousidev/darija-english-dictionary/gh-pages/data3.json")
       .then((response) => response.json())
       .then((data) => {
         setData3(data);
@@ -54,7 +54,7 @@ const FetchData = () => {
         console.error("Fetch error for data3.json:", error);
       });
     // Fetch data from data4.json
-    fetch("/data4.json")
+    fetch("https://raw.githubusercontent.com/Marfousidev/darija-english-dictionary/gh-pages/data4.json")
       .then((response) => response.json())
       .then((data) => {
         setData4(data);
